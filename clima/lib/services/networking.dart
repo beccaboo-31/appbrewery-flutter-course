@@ -7,8 +7,8 @@ class NetworkHelper {
 
   Future<dynamic> getData() async {
     http.Response res = await http.get(url);
-    print('printing res from network file');
-    print(res.body);
+    // print('printing res from network file');
+    // print(res.body);
     if (res.statusCode == 200) {
       String data = res.body;
       return jsonDecode(data);

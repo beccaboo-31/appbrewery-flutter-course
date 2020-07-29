@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "439243573027",
+    "firebase_url": "https://flash-chat-f50fc.firebaseio.com",
+    "project_id": "flash-chat-f50fc",
+    "storage_bucket": "flash-chat-f50fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439243573027:android:4d3a97e230e5420b36ee96",
+        "android_client_info": {
+          "package_name": "co.beccaboo.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439243573027-f6ljs81hr99obih5omoggkm58sek4ufu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuytFH2f8nFLTwfuzwusTsLH4PZ394KoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439243573027-f6ljs81hr99obih5omoggkm58sek4ufu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
